@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tbcnft/static/css/main.741ee34a.chunk.css",
-    "main.js": "/tbcnft/static/js/main.ef9012bb.chunk.js",
-    "main.js.map": "/tbcnft/static/js/main.ef9012bb.chunk.js.map",
-    "runtime-main.js": "/tbcnft/static/js/runtime-main.6e67e627.js",
-    "runtime-main.js.map": "/tbcnft/static/js/runtime-main.6e67e627.js.map",
-    "static/js/2.000a2352.chunk.js": "/tbcnft/static/js/2.000a2352.chunk.js",
-    "static/js/2.000a2352.chunk.js.map": "/tbcnft/static/js/2.000a2352.chunk.js.map",
-    "static/js/3.a64233a7.chunk.js": "/tbcnft/static/js/3.a64233a7.chunk.js",
-    "static/js/3.a64233a7.chunk.js.map": "/tbcnft/static/js/3.a64233a7.chunk.js.map",
-    "index.html": "/tbcnft/index.html",
-    "static/css/main.741ee34a.chunk.css.map": "/tbcnft/static/css/main.741ee34a.chunk.css.map",
-    "static/js/2.000a2352.chunk.js.LICENSE.txt": "/tbcnft/static/js/2.000a2352.chunk.js.LICENSE.txt",
-    "static/media/1.75f03515.png": "/tbcnft/static/media/1.75f03515.png",
-    "static/media/reset.css": "/tbcnft/static/media/PressStart2P-Regular.f2341734.woff"
+    "main.css": "/llama/static/css/main.58114780.chunk.css",
+    "main.js": "/llama/static/js/main.2643f049.chunk.js",
+    "main.js.map": "/llama/static/js/main.2643f049.chunk.js.map",
+    "runtime-main.js": "/llama/static/js/runtime-main.ff9b9285.js",
+    "runtime-main.js.map": "/llama/static/js/runtime-main.ff9b9285.js.map",
+    "static/js/2.608c79e8.chunk.js": "/llama/static/js/2.608c79e8.chunk.js",
+    "static/js/2.608c79e8.chunk.js.map": "/llama/static/js/2.608c79e8.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/llama/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/llama/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/llama/index.html",
+    "static/css/main.58114780.chunk.css.map": "/llama/static/css/main.58114780.chunk.css.map",
+    "static/js/2.608c79e8.chunk.js.LICENSE.txt": "/llama/static/js/2.608c79e8.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/llama/static/media/PressStart2P-Regular.f2341734.woff",
+    "static/media/random_llama.ce7a0ec5.gif": "/llama/static/media/random_llama.ce7a0ec5.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e67e627.js",
-    "static/js/2.000a2352.chunk.js",
-    "static/css/main.741ee34a.chunk.css",
-    "static/js/main.ef9012bb.chunk.js"
+    "static/js/runtime-main.ff9b9285.js",
+    "static/js/2.608c79e8.chunk.js",
+    "static/css/main.58114780.chunk.css",
+    "static/js/main.2643f049.chunk.js"
   ]
 }
